@@ -1,3 +1,3 @@
 # About me
-Hyuntae Cho
+Hyuntae Cho /n
 BComm Major in Finance and CyberSecurity Management
