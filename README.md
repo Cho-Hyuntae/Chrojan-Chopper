@@ -1,4 +1,4 @@
 # About me
 ## Hyuntae Cho  
-UNSW Sydney 
+UNSW Sydney  
 BComm Major in Finance and CyberSecurity Management
